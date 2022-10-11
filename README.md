@@ -16,7 +16,7 @@ Data distribution : ``133 images train - 20 images test``
 
 Best BLEU : ``0.1436``
 
-Best checkpoint is in epoch ``9``, ``step 150``
+Best checkpoint is in ``epoch 9 - step 150``
 
 Training results can be found [here](image-captioning-training-results)
 
