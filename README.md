@@ -12,7 +12,7 @@ Decoder pretrained model [link](https://huggingface.co/huawei-noah/TinyBERT_Gene
 
 #### Experiment on data_v1 
 
-Data distribution : ``133 images train - 20 images test``
+Data distribution : ``113 images train - 20 images test``
 
 Best BLEU : ``0.1436``
 
