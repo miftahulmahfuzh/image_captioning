@@ -12,15 +12,15 @@ Best BLEU : 0.1436
 
 Best checkpoint is in epoch 9, step 150
 
-Training results can be found ![here](image-captioning-training-results)
+Training results can be found [here](image-captioning-training-results)
 
-Training log can be found ![here](image-captioning-training-results/log)
+Training log can be found [here](image-captioning-training-results/log)
 
-VisualEncoderDecoder config can be found ![here](image-captioning-training-results/ckpt_epoch_9_step_150/config.json)
+VisualEncoderDecoder config can be found [here](image-captioning-training-results/ckpt_epoch_9_step_150/config.json)
 
-Eval generation of best checkpoint can be found ![here](image-captioning-training-results/ckpt_epoch_9_step_150/eval_generation.json)
+Eval generation of best checkpoint can be found [here](image-captioning-training-results/ckpt_epoch_9_step_150/eval_generation.json)
 
-Eval results of best checkpoint can be found ![here](image-captioning-training-results/ckpt_epoch_9_step_150/eval_results.json) 
+Eval results of best checkpoint can be found [here](image-captioning-training-results/ckpt_epoch_9_step_150/eval_results.json) 
 
 To visualize this experiment using Tensorboad:
 
